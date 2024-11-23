@@ -1,5 +1,6 @@
 "~/.vimrc
 "https://qiita.com/marrontan619/items/541a1374e1ac672977e6
+"ln -s (From)./My_dotfiles/.vimrc (To)~/
 "
 set number
 set nobackup
